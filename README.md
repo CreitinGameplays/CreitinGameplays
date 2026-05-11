@@ -1,5 +1,5 @@
 ---------------------
-<img src="image0.jpg" alt="no_way">
+<img src="05_blue.jpg" alt="no_way">
 
 --------------------- 
 
