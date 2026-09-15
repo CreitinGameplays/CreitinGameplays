@@ -3,12 +3,12 @@
 
 --------------------- 
 
-# Bem-Vindo ao meu perfil do GitHub
+# Welcome to my GitHub profile
 
-- Meu nome é Cleiton Santos de Santana
-- Nasci em 19 de janeiro de 2007
-- Moro no estado da Bahia
+- I am Creitin Gameplays
+- I born in january 19th, 2007
+- I live in Brazil
 
-- Gosto de brincar com máquinas virtuais, fazer experiências e ~por vírus nelas~
-- Gosto de mexer com códigos C++ (aprendendo a linguagem)
+- I enjoy playing around with virtual machines, experimenting, and even adding viruses to them.
+- I enjoy working with C/C++ code (learning the language).
 
